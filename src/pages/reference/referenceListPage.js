@@ -59,8 +59,8 @@ class ReferenceListPage extends Component {
           <MasterLayout>
             {this.CheckLogin()}
             <ReferenceList
-              ItemList={this.state.ItemList}
-              UserList={this.state.UserList}
+              itemlist={this.state.ItemList}
+              userlist={this.state.UserList}
             />
           </MasterLayout>
         </Fragment>

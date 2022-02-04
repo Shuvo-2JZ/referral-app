@@ -22,14 +22,14 @@ import { ReferralDeleteServices } from "../../APIServices/ReferralDeleteServices
 import { setReferenceDetails } from "../../helper/sessionHelper";
 import exportFromJSON from "export-from-json";
 const ReferenceList = (props) => {
-  const [ItemList, SetItemList] = useState(props.ItemList);
+  const [ItemList, SetItemList] = useState(props.itemlist);
   const [SearchBy, SetSearchBy] = useState("Name");
   const [ViewType, setViewType] = useState("column");
   const [showDetails, setShowDetails] = useState(false);
   const [Details, setDetails] = useState([]);
 
   // getting the user list
-  const [UserList, SetUserList] = useState(props.UserList);
+  const [UserList, SetUserList] = useState(props.userlist);
 
   // merging two list
   ItemList.forEach((item) => {

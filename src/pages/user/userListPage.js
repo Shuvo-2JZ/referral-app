@@ -48,7 +48,7 @@ class UserListPage extends Component {
       return (
         <MasterLayout>
           {this.CheckLogin()}
-          <UserList ItemList={this.state.ItemList} />
+          <UserList itemlist={this.state.ItemList} />
         </MasterLayout>
       );
     }

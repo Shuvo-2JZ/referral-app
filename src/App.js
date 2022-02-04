@@ -46,8 +46,6 @@ const App = () => {
                         <Route exact path="/ReferenceList" render={(props) => <ReferenceListPage {...props} key={Date.now()} />}/>
                         <Route exact path="/ReferenceUpdate" render={(props) => <ReferenceUpdatePage {...props} key={Date.now()} />}/>
                         <Route exact path="/ReferenceUpdateRM" render={(props) => <ReferenceUpdateRmPage {...props} key={Date.now()} />}/>
-
-
                     </Switch>
                 </HashRouter>
             </Fragment>

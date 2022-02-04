@@ -26,7 +26,7 @@ import { setUserDetails } from "../../helper/sessionHelper";
 import exportFromJSON from "export-from-json";
 
 const UserList = (props) => {
-  const [ItemList, SetItemList] = useState(props.ItemList);
+  const [ItemList, SetItemList] = useState(props.itemlist);
   const [SearchBy, SetSearchBy] = useState("fullName");
   const [showDetails, setShowDetails] = useState(false);
   const [Details, setDetails] = useState([]);
