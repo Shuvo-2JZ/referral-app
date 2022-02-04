@@ -1,0 +1,562 @@
+[
+  {
+    "IndexID": 3264,
+    "MemberCode": "041776",
+    "MemberName": "AB Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 28844,
+    "MemberCode": "082696",
+    "MemberName": "ABN AMRO Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 5,
+    "MemberCode": "030005",
+    "MemberName": "Agrani Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3274,
+    "MemberCode": "041786",
+    "MemberName": "Al Arafah Islami Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 53,
+    "MemberCode": "030053",
+    "MemberName": "Al Baraka Bank Bangladesh Ltd.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3280,
+    "MemberCode": "041792",
+    "MemberName": "American Express Bank Ltd.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3322,
+    "MemberCode": "041834",
+    "MemberName": "Bangladesh Bank                                                          ",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 13759,
+    "MemberCode": "063576",
+    "MemberName": "Bangladesh Commerce Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 92901,
+    "MemberCode": "143172",
+    "MemberName": "Bangladesh Development Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 52,
+    "MemberCode": "030052",
+    "MemberName": "Bangladesh Krishi Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 175932,
+    "MemberCode": "246706",
+    "MemberName": "Bangladesh Samabaya Bank Ltd",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3260,
+    "MemberCode": "041772",
+    "MemberName": "Bangladesh Shilpa Bank                                                     ",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 7373,
+    "MemberCode": "051654",
+    "MemberName": "Bangladesh Shilpa Rin Sangstha",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 11892,
+    "MemberCode": "061745",
+    "MemberName": "Bank Alfalah Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 54,
+    "MemberCode": "030054",
+    "MemberName": "Bank Asia Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 5394,
+    "MemberCode": "043903",
+    "MemberName": "Basic Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3608,
+    "MemberCode": "042120",
+    "MemberName": "BRAC Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 4,
+    "MemberCode": "030004",
+    "MemberName": "Citibank N.A.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 2929,
+    "MemberCode": "041441",
+    "MemberName": "Commercial Bank of Ceylon Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 361977,
+    "MemberCode": "456822",
+    "MemberName": "Community Bank Bangladesh Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 9285,
+    "MemberCode": "053527",
+    "MemberName": "Credit Agricole Indosuez",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 55,
+    "MemberCode": "030055",
+    "MemberName": "Dhaka Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 32204,
+    "MemberCode": "085972",
+    "MemberName": "Dubai Islamic Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3675,
+    "MemberCode": "042187",
+    "MemberName": "Dutch Bangla Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 57,
+    "MemberCode": "030057",
+    "MemberName": "Eastern Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 43129,
+    "MemberCode": "096537",
+    "MemberName": "EBL First Mutual Fund",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 6540,
+    "MemberCode": "050861",
+    "MemberName": "Export Import Bank of Bangladesh Ltd.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 58,
+    "MemberCode": "030058",
+    "MemberName": "First Security Islami Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 159657,
+    "MemberCode": "227784",
+    "MemberName": "Global Islami Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 6479,
+    "MemberCode": "050800",
+    "MemberName": "Habib Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 35345,
+    "MemberCode": "089032",
+    "MemberName": "ICB Islamic Bank Limited.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 17,
+    "MemberCode": "030017",
+    "MemberName": "IFIC Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3265,
+    "MemberCode": "041777",
+    "MemberName": "Islami Bank Bangladesh Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3733,
+    "MemberCode": "042245",
+    "MemberName": "Jamuna Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3256,
+    "MemberCode": "041768",
+    "MemberName": "Janata Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 11664,
+    "MemberCode": "061530",
+    "MemberName": "Mashreqbank psc",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 147214,
+    "MemberCode": "210737",
+    "MemberName": "Meghna Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 9225,
+    "MemberCode": "053469",
+    "MemberName": "Mellon Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3277,
+    "MemberCode": "041789",
+    "MemberName": "Mercantile  Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 61617,
+    "MemberCode": "114228",
+    "MemberName": "Mercantile Bank Ltd.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 149306,
+    "MemberCode": "213113",
+    "MemberName": "Midland Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 153637,
+    "MemberCode": "218237",
+    "MemberName": "Modhumoti Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3556,
+    "MemberCode": "042068",
+    "MemberName": "Mutual Trust Bank Ltd.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 63,
+    "MemberCode": "030063",
+    "MemberName": "National Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 72010,
+    "MemberCode": "123998",
+    "MemberName": "National Bank of Abu Dhabi",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 11760,
+    "MemberCode": "061624",
+    "MemberName": "National Bank of Pakistan",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 55923,
+    "MemberCode": "108983",
+    "MemberName": "National CIty",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 731,
+    "MemberCode": "030731",
+    "MemberName": "National Credit & Commerce Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 147215,
+    "MemberCode": "210738",
+    "MemberName": "NRB Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 141491,
+    "MemberCode": "204051",
+    "MemberName": "NRB Commercial Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 68,
+    "MemberCode": "030068",
+    "MemberName": "One Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 175929,
+    "MemberCode": "246702",
+    "MemberName": "Padma Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3271,
+    "MemberCode": "041783",
+    "MemberName": "Prime Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3262,
+    "MemberCode": "041774",
+    "MemberName": "Pubali Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 63954,
+    "MemberCode": "116430",
+    "MemberName": "Rajshahi Krishi Unnayan Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 18636,
+    "MemberCode": "071138",
+    "MemberName": "RAKUB",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 5393,
+    "MemberCode": "043902",
+    "MemberName": "RKUB",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 65,
+    "MemberCode": "030065",
+    "MemberName": "Rupali Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 175930,
+    "MemberCode": "246703",
+    "MemberName": "SBAC BANK LIMITED",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 13774,
+    "MemberCode": "063591",
+    "MemberName": "Shahjalal Islami Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3551,
+    "MemberCode": "042063",
+    "MemberName": "Shamil Bank of Bahrain                                                     ",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 249521,
+    "MemberCode": "333745",
+    "MemberName": "Shimanto Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 651,
+    "MemberCode": "030651",
+    "MemberName": "Social Islami Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 67,
+    "MemberCode": "030067",
+    "MemberName": "Sonali Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 149307,
+    "MemberCode": "213115",
+    "MemberName": "South Bangla Agriculture and Commerce Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3272,
+    "MemberCode": "041784",
+    "MemberName": "Southeast Bank Ltd.",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3278,
+    "MemberCode": "041790",
+    "MemberName": "Standard Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 2797,
+    "MemberCode": "041309",
+    "MemberName": "Standard Chartered Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 27570,
+    "MemberCode": "081442",
+    "MemberName": "Standard Chartered Grindlays Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3282,
+    "MemberCode": "041794",
+    "MemberName": "State Bank of India                                                        ",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3,
+    "MemberCode": "030003",
+    "MemberName": "The City Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3287,
+    "MemberCode": "041799",
+    "MemberName": "The Hongkong and Shanghai Banking Corporation Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 4735,
+    "MemberCode": "043247",
+    "MemberName": "The Oriental Bank Ltd",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3399,
+    "MemberCode": "041911",
+    "MemberName": "The Premier Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3603,
+    "MemberCode": "042115",
+    "MemberName": "Trust Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 149308,
+    "MemberCode": "213116",
+    "MemberName": "Union Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3267,
+    "MemberCode": "041779",
+    "MemberName": "United Commercial Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 9601,
+    "MemberCode": "053836",
+    "MemberName": "Unknown",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 72,
+    "MemberCode": "030072",
+    "MemberName": "Uttara Bank Limited",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  },
+  {
+    "IndexID": 3686,
+    "MemberCode": "042198",
+    "MemberName": "Woori Bank",
+    "MemberTypeCode": 1,
+    "MemberType": "Organization"
+  }
+]

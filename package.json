@@ -1,0 +1,69 @@
+{
+  "name": "react",
+  "version": "3.0.0",
+  "description": "React example starter project",
+  "homepage": "/",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "bootstrap": "^5.1.0",
+    "cogo-toast": "^4.2.3",
+    "draft-js": "^0.11.7",
+    "export-from-json": "1.4.0",
+    "html-to-image": "^1.8.5",
+    "print-js": "^1.6.0",
+    "react": "^16.8.0",
+    "react-bootstrap": "^2.0.0-beta.6",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-contexify": "^5.0.0",
+    "react-contextmenu": "^2.14.0",
+    "react-currency-format": "^1.0.0",
+    "react-dom": "^16.8.0",
+    "react-draft-wysiwyg": "^1.14.7",
+    "react-html-parser": "^2.0.2",
+    "react-icons": "^4.2.0",
+    "react-json-to-csv": "^1.0.4",
+    "react-lazyload": "^3.2.0",
+    "react-quill": "^1.3.5",
+    "react-router-dom": "^5.2.1",
+    "react-scripts": "4.0.0",
+    "react-window": "^1.8.6",
+    "read-excel-file": "^5.2.25",
+    "styled-components": "^5.3.1",
+    "sweetalert2": "^11.1.7",
+    "workbox-background-sync": "^5.1.4",
+    "workbox-broadcast-update": "^5.1.4",
+    "workbox-cacheable-response": "^5.1.4",
+    "workbox-core": "^5.1.4",
+    "workbox-expiration": "^5.1.4",
+    "workbox-google-analytics": "^5.1.4",
+    "workbox-navigation-preload": "^5.1.4",
+    "workbox-precaching": "^5.1.4",
+    "workbox-range-requests": "^5.1.4",
+    "workbox-routing": "^5.1.4",
+    "workbox-strategies": "^5.1.4",
+    "workbox-streams": "^5.1.4"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "file-loader": "^6.2.0",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "https://localhost:44342/"
+}

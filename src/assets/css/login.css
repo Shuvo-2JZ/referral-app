@@ -1,0 +1,25 @@
+
+.login-title{
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #394EEA;
+}
+
+.login-card{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.03);
+    background-color: #fff;
+    border-radius: 3px;
+    border: none;
+    position: relative;
+    padding: 30px 30px 80px 30px;
+    border-top: 2px solid #394EEA ;
+}
+
+.center-screen-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 85vh;
+}
