@@ -12,11 +12,15 @@ class SummaryCounting extends Component {
             TotalRef:"",
             CurrentRef:""
         }
+
+        this._isMounted = false;
     }
 
 
     componentDidMount() {
         SummaryCountingServices().then((res)=>{
+            this._isMounted = true;
+
             this.setState({
                 TotalUser:res['TotalUser'],
                 TotalRef:res['TotalRef'],
